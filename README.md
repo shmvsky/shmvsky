@@ -1,7 +1,7 @@
 ### Hi there 🐱‍👤
 
 - 🌍 I am from: Rostov-on-Don State, Russia
-- 🌱 Currently learning ML, flask
+- 🌱 Currently learning: java, spring boot, spring security
 - ✨ Connect With me On [LinkedIn](https://www.linkedin.com/in/nuhmanpk), [VK](https://vk.com/nuhni_bebrochki) & [telegram](https://t.me/grengof)
 
 ---
